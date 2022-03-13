@@ -1,2 +1,2 @@
 # TodoList
-TodoList app using SwiftUI and MVVM Model
+TodoList app using SwiftUI and MVVM architecture
